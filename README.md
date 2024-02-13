@@ -14,8 +14,7 @@
 > banner type: {banner type eg: Legends Rising}
 
 > full art: {img link (this is optional.)}
-
-> @dbl-news
+ > @dbl-news
 
 ---------------------------------------------------------------------
 ### more will be added soon
