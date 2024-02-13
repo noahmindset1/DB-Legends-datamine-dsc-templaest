@@ -4,17 +4,18 @@
 
 # New LF Character!!
 > {lf emoji} {lf name} - {char tag}
-
+>
 > element: {type} {type_emoji}
-
+>
 > Tags: {tags}
-
+>
 > abilities: {abils} {card emoji for each ability before each ability.}
-
+>
 > banner type: {banner type eg: Legends Rising}
-
+>
 > full art: {img link (this is optional.)}
- > @dbl-news
+> 
+> @dbl-news
 
 ---------------------------------------------------------------------
 ### more will be added soon
